@@ -6,7 +6,9 @@
 
 ![1578538132715](image.assets/1578538132715.png)
 
-**下载地址：**https://github.com/NJU-TJL/TextTagsCloud/releases
+**下载地址：** 
+
+https://github.com/NJU-TJL/TextTagsCloud/releases
 
 **效果：**（在模拟器中运行）
 
