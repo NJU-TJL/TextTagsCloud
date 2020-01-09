@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">选 · 择</string>
+    <string name="input_hint">待添加的标签内容</string>
+    <string name="delete_dialog">删除此标签？</string>
+    <string name="clear_dialog">清空所有标签？</string>
+</resources>
