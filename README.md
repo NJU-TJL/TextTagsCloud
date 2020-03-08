@@ -14,7 +14,7 @@ https://github.com/NJU-TJL/TextTagsCloud/releases
 
 ![EatingChoice__1.0.gif](image.assets/EatingChoice__1.0.gif)
 
-（如果**图片加载失败**，可在博客中查看：https://blog.csdn.net/Kingsman_T/article/details/103905776 或者 同步的码云仓库：https://gitee.com/NJU-TJL/TextTagsCloud）
+PS：如果**图片加载失败**，可在博客中查看：https://blog.csdn.net/Kingsman_T/article/details/103905776 或者 同步的码云仓库：https://gitee.com/NJU-TJL/TextTagsCloud
 
 **使用：**
 
